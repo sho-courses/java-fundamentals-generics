@@ -26,5 +26,7 @@ hs_err_pid*
 .settings
 .gradle
 .classpath
+.idea
+*.iml
 bin
 target
